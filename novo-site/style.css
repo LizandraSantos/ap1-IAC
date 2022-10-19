@@ -8,3 +8,9 @@
   justify-content: space-around;
   align-items: center;
 }
+
+.section-diego {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
